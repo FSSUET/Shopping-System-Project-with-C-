@@ -18,7 +18,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/shopping-system-cpp.git
+git clone https://github.com/your-username/shopping-system-cpp.git](https://github.com/FSSUET/Shopping-System-Project-with-C-
 cd shopping-system-cpp
 Compile and Run:
 
